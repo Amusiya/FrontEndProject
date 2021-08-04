@@ -57,4 +57,11 @@ PLACEMENT PAGE is contain Placement Records
 
 ![Screenshot (745)](https://user-images.githubusercontent.com/88303327/128155176-dfd65a62-5693-472e-8e4f-2997ea367d09.png)
 
+![Screenshot (746)](https://user-images.githubusercontent.com/88303327/128155390-3446d68c-cc85-4ae4-994d-09a04fc45ccc.png)
+
+SIGNIN PAGE : This page for Existing user, Existing user already have an account of in this E-Learn Site.So Existing user no need to create account.
+
+
+While user try to login by using their Email id & Paaswword.That password should be greater than 6 length of password otherwise it will display INVALID password alert message.
+
 
