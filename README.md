@@ -23,3 +23,6 @@ JAVA COURSE DETAILS
 ![java](https://user-images.githubusercontent.com/88303327/128151228-8ec07e8e-234f-4f4c-a8e0-f50379d2748f.png)
 
 ANGULAR COURSE DETAILS
+![angular](https://user-images.githubusercontent.com/88303327/128151600-4c29ab50-5d10-44c0-aa43-8024e92fb04f.png)
+
+AWS CLOUD COURSE DETAILS
