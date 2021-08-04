@@ -14,4 +14,6 @@ While we scroll the course page it will show like This
 ![Screenshot (696)](https://user-images.githubusercontent.com/88303327/128149905-77361f0d-565d-4239-a6f1-0afc28e61e99.png)
 While click on Each course it will give details of the courses.
 PYTHON COURSE DETAILS
+![python](https://user-images.githubusercontent.com/88303327/128150936-997d144b-ca14-4ec6-ad90-771eddddcfe6.png)
+JAVA COURSE DETAILS
 
