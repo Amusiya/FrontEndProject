@@ -47,7 +47,10 @@ HEAD OFFICE DETAILS
 
 ABOUT PAGE is contain important details about E-Learn center and Team members.
 
-![contact1](https://user-images.githubusercontent.com/88303327/128153664-af6d7808-fec7-4e91-96fd-8b350c4d4ed0.png)
+![Screenshot (743)](https://user-images.githubusercontent.com/88303327/128154406-b3f26fd4-7854-4113-a8f2-ab18a466f5bc.png)
+
+E-Learn Team Member
+
 
 
 
