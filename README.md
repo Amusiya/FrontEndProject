@@ -69,3 +69,9 @@ While user try to login by using their Email id & Paaswword.That password should
 
 If password is greater than 6 length of password It will show PASSWORD CORRECT alert message.
 
+![Screenshot (749)](https://user-images.githubusercontent.com/88303327/128157309-792f32f7-052d-4861-b1fb-103d56e90939.png)
+
+REGISTER PAGE : In This page contain student course registration form.
+
+User Emailid should be give proper email id along with @symbol.Otherwise It will show Error.
+
