@@ -43,5 +43,11 @@ CONTACT PAGE is contain contact details like phone number and Head office detail
 ![contact](https://user-images.githubusercontent.com/88303327/128153327-224a12f3-26bc-419f-bd47-e7a8ed0a7107.png)
 
 HEAD OFFICE DETAILS
+![contact1](https://user-images.githubusercontent.com/88303327/128153664-af6d7808-fec7-4e91-96fd-8b350c4d4ed0.png)
+
+ABOUT PAGE is contain important details about E-Learn center and Team members.
+
+![contact1](https://user-images.githubusercontent.com/88303327/128153664-af6d7808-fec7-4e91-96fd-8b350c4d4ed0.png)
+
 
 
