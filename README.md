@@ -10,4 +10,6 @@ Home page Details:
 Course page contains 6 courses details that is PYTHON,JAVA,ANGULAR,AWS CLOUD,DEVOPS,NODE JS .
 In this course page includes 3 sideshow images.
 ![Screenshot (695)](https://user-images.githubusercontent.com/88303327/128149231-6c02f116-b544-49bd-99b4-4880cbc32b80.png)
+While we scroll the course page it will show like This
+![Screenshot (696)](https://user-images.githubusercontent.com/88303327/128149905-77361f0d-565d-4239-a6f1-0afc28e61e99.png)
 
