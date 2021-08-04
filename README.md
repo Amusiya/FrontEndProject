@@ -63,11 +63,11 @@ SIGNIN PAGE : This page for Existing user, Existing user already have an account
 
 ![Screenshot (747)](https://user-images.githubusercontent.com/88303327/128156544-4844614a-a138-4e54-bcb5-fb74006e5e73.png)
 
-While user try to login by using their Email id & Paaswword.That password should be greater than 6 length of password otherwise it will display INVALID password alert message.
+While user try to login by using their Email id & Paaswword.That password should be greater than atleast 6 character long, otherwise it will display INVALID password alert message.
 
 ![Screenshot (748)](https://user-images.githubusercontent.com/88303327/128156983-67ce79be-d695-4d6f-94b2-46d5bbfe68e7.png)
 
-If password is greater than 6 length of password It will show PASSWORD CORRECT alert message.
+If password is greater than 6 character long of password,It will show PASSWORD CORRECT alert message.
 
 ![Screenshot (749)](https://user-images.githubusercontent.com/88303327/128157309-792f32f7-052d-4861-b1fb-103d56e90939.png)
 
