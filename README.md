@@ -51,6 +51,9 @@ ABOUT PAGE is contain important details about E-Learn center and Team members.
 
 E-Learn Team Member
 
+![Screenshot (744)](https://user-images.githubusercontent.com/88303327/128154650-ad013431-232e-4432-a37d-40b09076b2de.png)
+
+PLACEMENT PAGE is contain Placement Records
 
 
 
