@@ -10,7 +10,8 @@ In this project includes few pages HOME,COURSE,CONTACT,ABOUT,PLACEMENTS,LOGIN,RE
 ![Screenshot (690)](https://user-images.githubusercontent.com/88303327/128147263-038edd9a-6538-44c0-b3d5-4b346d78c318.png)
 Home page Details:
 ![Screenshot (692)](https://user-images.githubusercontent.com/88303327/128148229-be89a4eb-e56d-4ebe-9bea-06e98069a725.png)
-Course page contains 6 courses details that is PYTHON,JAVA,ANGULAR,AWS CLOUD,DEVOPS,NODE JS .
+Course page contains 6 courses details that is PYTHON,JAVA,ANGULAR,AWS CLOUD,DEVOPS,NODE JS.
+
 In this course page includes 3 sideshow images.
 ![Screenshot (695)](https://user-images.githubusercontent.com/88303327/128149231-6c02f116-b544-49bd-99b4-4880cbc32b80.png)
 While we scroll the course page it will show like This
@@ -32,3 +33,6 @@ AWS CLOUD COURSE DETAILS
 ![Aws](https://user-images.githubusercontent.com/88303327/128151916-dde24fde-70bc-48c1-8529-bd3370f2bf69.png)
 
 DEVOPS COURSE DETAILS
+![devops](https://user-images.githubusercontent.com/88303327/128152238-1af15783-2b00-42c1-ba06-d0eb47622c6c.png)
+
+NODE JS COURSE DETAILS
