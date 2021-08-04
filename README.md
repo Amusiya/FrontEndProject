@@ -75,3 +75,7 @@ REGISTER PAGE : In This page contain student course registration form.
 
 User Emailid should be give proper email id along with @symbol.Otherwise It will show Error.
 
+![Screenshot (751)](https://user-images.githubusercontent.com/88303327/128158332-581bac2b-96a4-4fd9-bf04-f1caf27933b9.png)
+
+If it is correct email id It will show confirmation message.
+
