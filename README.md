@@ -8,3 +8,5 @@ In this project includes few pages HOME,COURSE,CONTACT,ABOUT,PLACEMENTS,LOGIN,RE
 Home page Details:
 ![Screenshot (692)](https://user-images.githubusercontent.com/88303327/128148229-be89a4eb-e56d-4ebe-9bea-06e98069a725.png)
 Course page contains 6 courses details that is PYTHON,JAVA,ANGULAR,AWS CLOUD,DEVOPS,NODE JS .
+![Screenshot (695)](https://user-images.githubusercontent.com/88303327/128149231-6c02f116-b544-49bd-99b4-4880cbc32b80.png)
+PYTHON Course Details:
